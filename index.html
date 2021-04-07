@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>navigation</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
+  </head>
+
+  <body>
+    <div class="nav-container">
+        <div class="img-con">
+            <img src="./codergglogo.png" alt="sample logo">
+                 <h2>@coder_gg</h2>
+        </div>
+        <div class="icon">
+            <i class="fa fa-th  fa-2x   btn" aria-hidden="true"></i>
+        </div>
+        
+        <div class="nav">
+            <ul >
+                <li class="list"><a href="#">Home</a></li>
+                <li class="list"><a href="#">about</a></li>
+                <li class="list"><a href="#">contact</a></li>
+                <li class="list"><a href="#">help</a></li>
+              </ul>
+        </div>
+    
+    </div>
+    
+
+
+      <script>
+          $(document).ready(function(){
+              $(".btn").click(
+                  function(){
+                      $("ul").toggleClass("show")
+                  }
+              )
+          })
+      </script>
+  </body>
+</html>
