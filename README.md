@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ravikumar9130
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on your shedule
-- 📫 How to reach me ...
+### Hi there, I'm Ravikumar👋
 
-<!---
-ravikumar9130/ravikumar9130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ![](https://komarev.com/ghpvc/?username=ravikumar9130&color=green)
+ 
+ [![Website](https://img.shields.io/website?label=ravikumar&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://profile-ravikumar.netlify.app/)
+ 
